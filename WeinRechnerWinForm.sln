@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeinRechnerWinForm", "WeinRechnerWinForm\WeinRechnerWinForm.csproj", "{81F0E325-A011-46BE-B9AD-E57AC6998671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeinrechnerWinFormTest", "WeinrechnerWinFormTest\WeinrechnerWinFormTest.csproj", "{7AEF60A2-77FD-4723-87D4-D43269AF9089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F0E325-A011-46BE-B9AD-E57AC6998671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F0E325-A011-46BE-B9AD-E57AC6998671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F0E325-A011-46BE-B9AD-E57AC6998671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F0E325-A011-46BE-B9AD-E57AC6998671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEF60A2-77FD-4723-87D4-D43269AF9089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEF60A2-77FD-4723-87D4-D43269AF9089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEF60A2-77FD-4723-87D4-D43269AF9089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEF60A2-77FD-4723-87D4-D43269AF9089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF60DA2E-A7A1-4604-8AF7-55FE23E177D2}
+	EndGlobalSection
+EndGlobal
